@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ansonfoong/discordjs-commando-tutorial#readme",
   "dependencies": {
-    "discord.js": "^11.5.1",
+    "discord.js": "^13.14.0",
     "discord.js-commando": "^0.10.0",
     "node-opus": "^0.3.2",
     "ytdl-core": "^0.29.7"
